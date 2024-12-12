@@ -1,0 +1,13 @@
+usertype,usertype_description,kyc_status,user_count
+B,uabpay+,"Full KYC",149
+B,uabpay+,"Low KYC",230
+BC,Cashier,"Full KYC",3
+BC,Cashier,"Low KYC",1
+R,uabpay,"Full KYC",175
+R,uabpay,"Low KYC",368
+WL1,"Sai Sai Pay","Full KYC",54
+WL1,"Sai Sai Pay","Low KYC",182
+WL2,"MAI Xtra","Full KYC",26
+WL2,"MAI Xtra","Low KYC",16
+WL3,"SGH Plus","Full KYC",30
+WL3,"SGH Plus","Low KYC",7
