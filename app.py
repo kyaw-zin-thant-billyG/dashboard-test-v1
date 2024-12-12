@@ -6,7 +6,7 @@ import dash_bootstrap_components as dbc
 import pandas as pd
 
 # Load the CSV file
-df = pd.read_csv("C:/Users/ASUS/Desktop/work_sql/UAB_capstone/kpi_csvs/wallet_count_summary/user_kyc_status_alltime_v3.csv")
+df = pd.read_csv("user_kyc_status_alltime_v3.csv")
 
 #initialize dash app
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
